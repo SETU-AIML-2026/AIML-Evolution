@@ -1,0 +1,88 @@
+<SYSTEM> This is the Tutors course  The Evolution of Machine Learning and AI by Indrakshi Dey</SYSTEM>
+
+
+#  The Evolution of Machine Learning and AI
+
+# The Evolution of Machine Learning and AI
+
+machine learning · deep learning · transformers · ethics · emerging systems
+
+An introduction to the historical evolution of AI and ML, from symbolic reasoning to modern generative systems.
+
+# Course :  The Evolution of Machine Learning and AI
+
+ 
+machine learning · deep learning · transformers · ethics · emerging systems
+
+An introduction to the historical evolution of AI and ML, from symbolic reasoning to modern generative systems.
+
+## Topic :  00: Induction
+
+ 
+Introduction to the module, setting up the landscape of AI and ML.
+
+### Unit : Module Introduction
+
+ 
+#### Talk :  The Evolution of Machine Learning and AI
+
+ ### 5 ECTS | Lecturer: Indrakshi Dey
+
+- Department of Computing and Mathematics
+- Intermediate level
+
+---
+
+# Why this module matters
+
+AI and ML are reshaping software, decision-making, and digital services.
+
+- symbolic AI → machine learning → generative AI
+- expert systems → neural networks → transformers
+- narrow tools → intelligent systems
+
+---
+
+# Historical timeline
+
+- 1950s-60s: symbolic AI and early reasoning systems
+- 1970s-90s: expert systems and AI winters
+- 2000s: statistical learning and data-driven models
+- 2010s: deep learning, CNNs, RNNs, and GPUs
+- 2020s: transformers, LLMs, and generative AI
+
+---
+
+# Core themes
+
+- classical ML foundations
+- neural network training and optimisation
+- deep learning families and architectures
+- LLMs and software engineering workflows
+- ethics, bias, accountability, and transparency
+
+---
+
+# Learning outcomes
+
+By the end of the module, students will be able to:
+
+1. Trace AI and ML milestones and challenges.
+2. Compare major model families and training methods.
+3. Evaluate modern LLM architectures and their significance.
+4. Analyse ethical and practical implications of AI systems.
+
+---
+
+# Assessment and practice
+
+- Continuous assessment: 100%
+- Assignment 1: history, concepts, tools, ethics
+- Assignment 2: LLMs, workflows, and future trends
+- lectures, labs, and applied case studies
+
+---
+
+# Looking ahead
+
+AI is not only about capability; it is also about trust, transparency, and responsible design.

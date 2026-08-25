@@ -1,0 +1,75 @@
+<SYSTEM> This is the Tutors course  The Evolution of Machine Learning and AI topic  The Evolution of Machine Learning and AI by Indrakshi Dey</SYSTEM>
+
+
+# Topic :  The Evolution of Machine Learning and AI
+
+ 
+AI and ML history from theory to today.
+
+## Unit : Module Introduction
+
+ 
+### Talk :  The Evolution of Machine Learning and AI
+
+ ### 5 ECTS | Lecturer: Indrakshi Dey
+- Department of Computing and Mathematics
+- Intermediate level
+
+---
+
+# Why this module matters
+
+AI and ML are reshaping how software is built, how decisions are made, and how digital services are designed.
+
+- From expert systems to LLMs
+- From rule-based reasoning to learned representations
+- From narrow tools to general-purpose intelligence
+
+---
+
+# A brief historical arc
+
+- 1950s-60s: symbolic AI and early logic-based systems
+- 1970s-90s: expert systems, limited progress, and AI winters
+- 2000s: data availability, statistical learning, and neural networks
+- 2010s: deep learning, CNNs, RNNs, and transformer models
+- 2020s: generative AI, LLMs, and responsible AI debates
+
+---
+
+# Key themes in the module
+
+- History of AI and machine learning
+- Classical ML and early neural network foundations
+- Training, optimisation, and deep learning breakthroughs
+- Model families: CNNs, RNNs, transformers, diffusion models
+- LLMs, software engineering workflows, and deployment
+- Ethics, fairness, bias, explainability, and accountability
+
+---
+
+# Learning outcomes
+
+By the end of the module, students will be able to:
+
+1. Trace the major milestones in AI and ML history.
+2. Compare classical ML and modern deep learning approaches.
+3. Evaluate modern LLM architectures and their significance.
+4. Analyse the ethical and practical implications of AI systems.
+
+---
+
+# Assessment and practice
+
+- Continuous assessment: 100%
+- Assignment 1: foundations, historical milestones, tools, and ethics
+- Assignment 2: LLMs, workflows, and emerging AI trends
+- Lectures, practical labs, and case-based learning
+
+---
+
+# Looking ahead
+
+The future of AI is not just about capability, but also trust, transparency, and responsible design.
+
+This module introduces the ideas, tools, and critical thinking needed to navigate the rapidly evolving landscape of AI.

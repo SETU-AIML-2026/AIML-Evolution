@@ -1,0 +1,12 @@
+credits: Indrakshi Dey
+icon:
+  type: material-icon-theme:robot
+  color: "2D7FF9"
+auth: 0
+labStepsAutoNumber: true
+ignorepin: 0
+ignore: ""
+slack: https://teams.microsoft.com/
+llm: 2
+lightboxpdf: true
+whitelist: 1
