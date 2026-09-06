@@ -6,4 +6,4 @@ icon:
 
 # Week 1 Lecture Slides
 
-The Shape of the Field: cycles, breakthroughs, and what the current wave got right.
+The Shape of the Field: cycles and breakthroughs.
