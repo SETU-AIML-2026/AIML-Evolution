@@ -7,4 +7,4 @@ icon:
 
 # Week 1 Reference Booklet
 
-Detailed Content of Week 1.
+Detailed Content of Week 1 : Explantory Notes.
