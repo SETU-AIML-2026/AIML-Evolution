@@ -7,4 +7,4 @@ icon:
 
 # Week 1 Lab Files
 
-Download and unzip before the lab: timeline dataset, figures, the three-ingredients experiment, setup scripts and the guided notebook.
+Timeline dataset, figures, the three-ingredients experiment, setup scripts and the guided notebook.
