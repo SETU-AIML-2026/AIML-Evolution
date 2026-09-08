@@ -6,7 +6,7 @@ auth: 0
 labStepsAutoNumber: true
 ignorepin: 0
 ignore: ""
-slack: https://teams.microsoft.com/
+slack: https://setu-aiml-sw-eng.slack.com/archives/C0BUXC1NDUN
 llm: 2
 lightboxpdf: true
 whitelist: 1
