@@ -7,7 +7,7 @@ icon:
 
 # Why the Module Looks Like This
 
-
+Why this structure
 
 A conventional version of this module would follow the field's textbook chronology and spend three
 weeks on classical material before reaching anything current. This one treats history as a **fast
