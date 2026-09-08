@@ -7,7 +7,7 @@ icon:
 
 # The Module at a Glance
 
-[[toc]]
+Quick Review
 
 ## Where this module sits
 
