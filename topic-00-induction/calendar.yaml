@@ -1,0 +1,105 @@
+# Semester calendar for The Evolution of Machine Learning and AI.
+#
+# PROVISIONAL DATES — the week structure (4 sprints x 3 teaching weeks, each closed by a
+# reading week) is fixed by the module design; the calendar dates below are anchored to a
+# 7 September 2026 start and must be confirmed against the official academic calendar
+# before this file is published.
+#
+# Drop this file in the course root, alongside course.md and properties.yaml.
+
+title: Semester 1
+year: 2026
+
+weeks:
+  - date: 2026-08-31
+    week: 0
+    topic: Induction
+    assessment: ~
+
+  - date: 2026-09-07
+    week: 1
+    topic: The Shape of the Field
+    assessment: ~
+
+  - date: 2026-09-14
+    week: 2
+    topic: Responsible AI, Before We Build Anything
+    assessment: ~
+
+  - date: 2026-09-21
+    week: 3
+    topic: How Machines Learn, Fast
+    assessment: ~
+
+  - date: 2026-09-28
+    week: ~
+    topic: Reading Week — consolidation, quiz revision opens
+    assessment: ~
+
+  - date: 2026-10-05
+    week: 4
+    topic: Model Families — structure as an assumption about the world
+    assessment: ~
+
+  - date: 2026-10-12
+    week: 5
+    topic: Science-Inspired AI — building physical law into models
+    assessment: ~
+
+  - date: 2026-10-19
+    week: 6
+    topic: Quiz — foundations and the science frontier
+    assessment:
+      name: Assignment 1 — Mid-module quiz
+      due: 2026-10-23
+      percentage: 50
+      submission: Online (timed quiz)
+
+  - date: 2026-10-26
+    week: ~
+    topic: Reading Week — consolidation, Sprint 3 preview
+    assessment: ~
+
+  - date: 2026-11-02
+    week: 7
+    topic: Transformers and LLMs — the scaling era and where it strains
+    assessment: ~
+
+  - date: 2026-11-09
+    week: 8
+    topic: Scale-Free LLMs — beyond brute-force attention
+    assessment: ~
+
+  - date: 2026-11-16
+    week: 9
+    topic: Lean LLMs — small, cheap, private, on-device
+    assessment: ~
+
+  - date: 2026-11-23
+    week: ~
+    topic: Reading Week — final-project proposals released and reviewed
+    assessment: ~
+
+  - date: 2026-11-30
+    week: 10
+    topic: LLMs in Software Engineering and System Design
+    assessment: ~
+
+  - date: 2026-12-07
+    week: 11
+    topic: Frontier and Emerging Trends
+    assessment: ~
+
+  - date: 2026-12-14
+    week: 12
+    topic: Final Project — build, showcase, reflect
+    assessment: ~
+
+  - date: 2026-12-21
+    week: ~
+    topic: Reading Week — final-project submission
+    assessment:
+      name: Assignment 2 — Final project (brief + artefact)
+      due: 2027-01-08
+      percentage: 50
+      submission: Online (brief, artefact and showcase)
