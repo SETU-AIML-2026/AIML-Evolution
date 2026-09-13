@@ -7,4 +7,4 @@ icon:
 
 # Week 2 Reference Booklet
 
-Detailed Content of Week 2 : Explanatory Notes.
+Detailed Content of Week 2
