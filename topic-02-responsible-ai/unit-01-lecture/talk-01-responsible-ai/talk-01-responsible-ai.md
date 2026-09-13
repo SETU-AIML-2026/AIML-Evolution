@@ -6,4 +6,4 @@ icon:
 
 # Week 2 Lecture Slides
 
-Responsible AI, Before We Build Anything: bias, fairness and accountability.
+Responsible AI, Before We Build Anything
