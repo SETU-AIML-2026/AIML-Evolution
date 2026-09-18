@@ -6,4 +6,4 @@ icon:
 
 # Week 3 Lecture Slides
 
-How Machines Learn: one idea, four pictures, three live demos
+How Machines Learn
