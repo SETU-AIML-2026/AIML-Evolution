@@ -2,11 +2,13 @@ credits: Indrakshi Dey
 icon:
   type: material-icon-theme:robot
   color: "2D7FF9"
-auth: 0
+auth: 1
 labStepsAutoNumber: true
 ignorepin: 0
 ignore: ""
-slack: https://teams.microsoft.com/
+slack: https://setu-aiml-sw-eng.slack.com
+moodle: https://moodle.setu.ie/course/view.php?id=228584
+youtube: https://www.youtube.com/watch?v=BeLIcp3hyUc&list=PLZOz5uakfQMk&pp=sAgC
 llm: 2
 lightboxpdf: true
 whitelist: 1
