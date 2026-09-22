@@ -7,7 +7,7 @@ icon:
 
 # Student Guide: Your Capstone Idea in Five Steps
 
-**No data, no coding, no maths needed yet.** Just an idea. The form takes 15 minutes, nothing is marked, and everyone gets feedback.
+The form takes 15 minutes.
 
 ## The five steps
 
