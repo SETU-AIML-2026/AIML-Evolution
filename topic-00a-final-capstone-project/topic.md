@@ -6,4 +6,4 @@ icon:
 
 # Final Capstone Project
 
-Read the student guide, then tell us your project idea using the form. 
+Tell us your project idea using the form. 
