@@ -7,4 +7,4 @@ icon:
 
 # Week 1 Quiz Summary
 
-Everything the Week 6 quiz can ask about Week 1, in plain English: eleven points, the seven headline questions, and twenty practice questions in the quiz's own multiple-choice format, with answers.
+Week 1 Summary points
