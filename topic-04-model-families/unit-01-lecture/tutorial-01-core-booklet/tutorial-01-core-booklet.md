@@ -7,4 +7,4 @@ icon:
 
 # Week 4 Core Booklet
 
-The required reading. Same six parts as the lecture, 45 minutes, with 20 practice questions and answers.
+The required reading. 
