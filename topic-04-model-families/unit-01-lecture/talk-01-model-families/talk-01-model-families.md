@@ -6,4 +6,4 @@ icon:
 
 # Week 4 Lecture Slides
 
-Three Ways to Wire a Machine: convolution, recurrence, attention, and the bargain
+Three Ways to Wire a Machine
