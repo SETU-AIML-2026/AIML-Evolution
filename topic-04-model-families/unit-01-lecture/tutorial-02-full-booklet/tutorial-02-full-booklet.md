@@ -7,4 +7,4 @@ icon:
 
 # Week 4 Full Booklet (optional)
 
-The complete account, for the curious. The reading map on page 3 marks each chapter core or extra.
+The complete account, for the curious. 
