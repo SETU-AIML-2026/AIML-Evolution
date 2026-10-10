@@ -1,8 +1,5 @@
 ---
 order: 1
-icon:
-  type: fluent:lightbulb-24-filled
-  color: "#C68A1B"
 ---
 
 # Student Guide: Your Capstone Idea in Five Steps
