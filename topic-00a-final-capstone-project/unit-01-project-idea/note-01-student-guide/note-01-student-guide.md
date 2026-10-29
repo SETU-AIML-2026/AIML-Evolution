@@ -47,7 +47,7 @@ The first six are the easiest. Pick one, or change one to suit you.
 | **Week 5** | You learn how to build the model. |
 | **Week 12** | Show your project live. |
 
-At the end you hand in four things: **your working model**, **a comparison** with a model that learns from examples instead of the law, **a short report** on who it helps and how, and **a live showcase**. Together they are 40% of the module.
+At the end you hand in **one detailed report**: your working model, a comparison with a model that learns from examples instead of the law, your checks, and who it helps and how, by **23:59 on Wednesday 6 January 2027**. You then talk it through in a **ten-minute in-person interview** in the week of 11 January 2027. Together they are 50% of the module: the report 90% of that, the interview 10%.
 
 ## Stuck?
 
